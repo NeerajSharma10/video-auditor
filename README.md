@@ -16,7 +16,7 @@ An intelligent, end-to-end video compliance audit pipeline designed to automatic
 
 ## 📸 System Architecture
 
-![System Architecture](docs/architecture.png)
+![System Architecture](architecture.png)
 
 ```
 [ YouTube URL ] ───► [ Local Video Indexer ] ───► [ Local RAG Auditor ] ───► [ Compliance Report ]
